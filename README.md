@@ -1,0 +1,215 @@
+# Python Programming Tasks
+
+This project contains 200 Python programming tasks ranging from basic to advanced levels.
+
+## ✅ Basic Tasks
+- [x] Task 01: Print Hello World
+- [x] Task 02: Add two numbers
+- [x] Task 03: Find the square root
+- [x] Task 04: Calculate the area of a rectangle given length and width
+- [x] Task 05: Convert temperature from Celsius to Fahrenheit
+- [x] Task 06: Check if a number is even or odd
+- [x] Task 07: Find the maximum of three numbers
+- [ ] Task 08: Calculate the factorial of a number using a loop
+- [ ] Task 09: Print numbers from 1 to 10
+- [ ] Task 10: Count from 10 to 1 backwards
+- [ ] Task 11: Calculate the sum of numbers from 1 to 100
+- [ ] Task 12: Check if a number is positive, negative, or zero
+- [ ] Task 13: Create a simple calculator for basic operations (+, -, *, /)
+- [ ] Task 14: Find the length of a string
+- [ ] Task 15: Convert a string to uppercase and lowercase
+- [ ] Task 16: Check if a string contains a specific character
+- [ ] Task 17: Reverse a string
+- [ ] Task 18: Count vowels in a string
+- [ ] Task 19: Create a list of your favorite fruits
+- [ ] Task 20: Add and remove elements from a list
+- [ ] Task 21: Find the largest number in a list
+- [ ] Task 22: Check if an element exists in a list
+- [ ] Task 23: Create a dictionary with student names and grades
+- [ ] Task 24: Access and modify dictionary values
+- [ ] Task 25: Print all keys and values in a dictionary
+- [ ] Task 26: Create a simple guessing game (guess a number 1-10)
+- [ ] Task 27: Print the multiplication table for a given number
+- [ ] Task 28: Check if a year is a leap year
+- [ ] Task 29: Calculate simple interest
+- [ ] Task 30: Find the ASCII value of a character
+- [ ] Task 31: Generate random numbers between 1 and 100
+- [ ] Task 32: Create a function that returns the square of a number
+- [ ] Task 33: Create a function to check if a string is a palindrome
+- [ ] Task 34: Count the number of words in a sentence
+- [ ] Task 35: Remove spaces from a string
+- [ ] Task 36: Find the second largest number in a list
+- [ ] Task 37: Create a simple password generator (random characters)
+- [ ] Task 38: Calculate the average of numbers in a list
+- [ ] Task 39: Convert decimal to binary
+- [ ] Task 40: Check if a string starts with or ends with specific characters
+- [ ] Task 41: Create a function to calculate compound interest
+- [ ] Task 42: Print the current date and time
+- [ ] Task 43: Create a simple to-do list (add, remove, display items)
+- [ ] Task 44: Count occurrences of each character in a string
+- [ ] Task 45: Find common elements between two lists
+- [ ] Task 46: Sort a list of numbers in ascending and descending order
+- [ ] Task 47: Create a simple rock-paper-scissors game
+- [ ] Task 48: Calculate the perimeter and area of a circle
+- [ ] Task 49: Create a function to validate email format (basic check)
+- [ ] Task 50: Read user input and perform basic validation
+
+## 🔧 Intermediate Tasks
+- [ ] Task 51: Create a class for a basic bank account with deposit and withdraw methods
+- [ ] Task 52: Implement a simple inventory management system
+- [ ] Task 53: Create a contact book using dictionaries
+- [ ] Task 54: Build a basic quiz application with multiple choice questions
+- [ ] Task 55: Implement binary search algorithm
+- [ ] Task 56: Create a function to generate Fibonacci sequence
+- [ ] Task 57: Build a simple expense tracker
+- [ ] Task 58: Implement bubble sort algorithm
+- [ ] Task 59: Create a basic student grade management system
+- [ ] Task 60: Build a simple file organizer (sort files by extension)
+- [ ] Task 61: Implement linear search in a list
+- [ ] Task 62: Create a password strength checker
+- [ ] Task 63: Build a simple URL shortener
+- [ ] Task 64: Implement a basic stack data structure
+- [ ] Task 65: Create a queue data structure from scratch
+- [ ] Task 66: Build a simple web scraper using requests and BeautifulSoup
+- [ ] Task 67: Create a basic text-based adventure game
+- [ ] Task 68: Implement selection sort algorithm
+- [ ] Task 69: Build a simple weather app using API
+- [ ] Task 70: Create a basic image resizer using PIL
+- [ ] Task 71: Implement a simple linked list
+- [ ] Task 72: Build a basic chat bot with predefined responses
+- [ ] Task 73: Create a file encryption/decryption tool
+- [ ] Task 74: Implement insertion sort algorithm
+- [ ] Task 75: Build a simple task scheduler
+- [ ] Task 76: Create a basic log file analyzer
+- [ ] Task 77: Implement a simple hash table
+- [ ] Task 78: Build a currency converter using API
+- [ ] Task 79: Create a basic markdown to HTML converter
+- [ ] Task 80: Implement merge sort algorithm
+- [ ] Task 81: Build a simple image filter application
+- [ ] Task 82: Create a basic data visualization with matplotlib
+- [ ] Task 83: Implement a simple binary tree
+- [ ] Task 84: Build a basic web crawler
+- [ ] Task 85: Create a simple backup utility
+- [ ] Task 86: Implement quick sort algorithm
+- [ ] Task 87: Build a basic database interface using SQLite
+- [ ] Task 88: Create a simple machine learning classifier
+- [ ] Task 89: Implement a basic graph data structure
+- [ ] Task 90: Build a simple API using Flask
+- [ ] Task 91: Create a basic text summarizer
+- [ ] Task 92: Implement heap sort algorithm
+- [ ] Task 93: Build a simple image recognition tool
+- [ ] Task 94: Create a basic network scanner
+- [ ] Task 95: Implement a simple search engine
+- [ ] Task 96: Build a basic game engine framework
+- [ ] Task 97: Create a simple compiler/interpreter
+- [ ] Task 98: Implement various tree traversal algorithms
+- [ ] Task 99: Build a basic recommendation system
+- [ ] Task 100: Create a simple distributed system component
+- [ ] Task 101: Implement advanced string matching algorithms
+- [ ] Task 102: Build a basic neural network from scratch
+- [ ] Task 103: Create a simple blockchain implementation
+- [ ] Task 104: Implement graph algorithms (Dijkstra, BFS, DFS)
+- [ ] Task 105: Build a basic operating system scheduler
+- [ ] Task 106: Create a simple computer vision application
+- [ ] Task 107: Implement advanced sorting algorithms (radix, counting)
+- [ ] Task 108: Build a basic natural language processor
+- [ ] Task 109: Create a simple game AI
+- [ ] Task 110: Implement dynamic programming solutions
+- [ ] Task 111: Build a basic compiler optimization
+- [ ] Task 112: Create a simple distributed cache
+- [ ] Task 113: Implement advanced data structures (B-trees, tries)
+- [ ] Task 114: Build a basic machine learning framework
+- [ ] Task 115: Create a simple virtual machine
+- [ ] Task 116: Implement parallel processing algorithms
+- [ ] Task 117: Build a basic graphics rendering engine
+- [ ] Task 118: Create a simple database management system
+- [ ] Task 119: Implement advanced mathematical algorithms
+- [ ] Task 120: Build a basic real-time system
+
+## 🚀 Advanced Tasks
+
+- [ ] Task 121: Implement a complete relational database engine
+- [ ] Task 122: Build a full-featured web framework from scratch
+- [ ] Task 123: Create a distributed consensus algorithm (Raft/Paxos)
+- [ ] Task 124: Implement a complete garbage collector
+- [ ] Task 125: Build a real-time operating system kernel
+- [ ] Task 126: Create a full compiler with optimization passes
+- [ ] Task 127: Implement a distributed file system
+- [ ] Task 128: Build a complete neural network framework
+- [ ] Task 129: Create a blockchain with smart contracts
+- [ ] Task 130: Implement a complete virtual machine with JIT compilation
+- [ ] Task 131: Build a distributed transaction system
+- [ ] Task 132: Create a complete computer graphics pipeline
+- [ ] Task 133: Implement a full text search engine with ranking
+- [ ] Task 134: Build a real-time multiplayer game server
+- [ ] Task 135: Create a complete automated theorem prover
+- [ ] Task 136: Implement a distributed key-value store with consensus
+- [ ] Task 137: Build a complete code analysis and refactoring tool
+- [ ] Task 138: Create a full-featured ray tracer
+- [ ] Task 139: Implement a complete machine learning platform
+- [ ] Task 140: Build a distributed stream processing system
+- [ ] Task 141: Create a complete programming language with IDE
+- [ ] Task 142: Implement a fault-tolerant distributed system
+- [ ] Task 143: Build a complete 3D game engine
+- [ ] Task 144: Create a full computer algebra system
+- [ ] Task 145: Implement a complete static analysis framework
+- [ ] Task 146: Build a distributed machine learning system
+- [ ] Task 147: Create a complete quantum computing simulator
+- [ ] Task 148: Implement a full-featured version control system
+- [ ] Task 149: Build a complete containerization platform
+- [ ] Task 150: Create a distributed consensus-based blockchain
+- [ ] Task 151: Implement a complete natural language understanding system
+- [ ] Task 152: Build a full-featured distributed database
+- [ ] Task 153: Create a complete automated code generation system
+- [ ] Task 154: Implement a real-time collaborative editing system
+- [ ] Task 155: Build a complete microservices orchestration platform
+- [ ] Task 156: Create a full-featured computer vision framework
+- [ ] Task 157: Implement a complete distributed caching system
+- [ ] Task 158: Build a full symbolic mathematics engine
+- [ ] Task 159: Create a complete automated testing framework
+- [ ] Task 160: Implement a distributed machine learning training system
+- [ ] Task 161: Build a complete code optimization framework
+- [ ] Task 162: Create a full-featured network simulation environment
+- [ ] Task 163: Implement a complete distributed consensus protocol
+- [ ] Task 164: Build a full real-time analytics processing system
+- [ ] Task 165: Create a complete automated deployment pipeline
+- [ ] Task 166: Implement a distributed graph processing system
+- [ ] Task 167: Build a complete security analysis framework
+- [ ] Task 168: Create a full-featured distributed storage system
+- [ ] Task 169: Implement a complete performance profiling system
+- [ ] Task 170: Build a distributed real-time communication system
+- [ ] Task 171: Create a complete automated code review system
+- [ ] Task 172: Implement a full-featured distributed scheduler
+- [ ] Task 173: Build a complete bioinformatics analysis pipeline
+- [ ] Task 174: Create a distributed machine learning inference system
+- [ ] Task 175: Implement a complete formal verification system
+- [ ] Task 176: Build a full-featured distributed monitoring system
+- [ ] Task 177: Create a complete automated vulnerability scanner
+- [ ] Task 178: Implement a distributed consensus-based voting system
+- [ ] Task 179: Build a complete high-performance computing framework
+- [ ] Task 180: Create a full-featured distributed backup system
+- [ ] Task 181: Implement a complete automated code migration tool
+- [ ] Task 182: Build a distributed real-time fraud detection system
+- [ ] Task 183: Create a complete quantum algorithm simulator
+- [ ] Task 184: Implement a full-featured distributed load balancer
+- [ ] Task 185: Build a complete automated infrastructure provisioning system
+- [ ] Task 186: Create a distributed machine learning model serving platform
+- [ ] Task 187: Implement a complete static program analysis suite
+- [ ] Task 188: Build a full-featured distributed event streaming platform
+- [ ] Task 189: Create a complete automated security auditing system
+- [ ] Task 190: Implement a distributed consensus-based configuration management
+- [ ] Task 191: Build a complete high-frequency trading system
+- [ ] Task 192: Create a full-featured distributed workflow engine
+- [ ] Task 193: Implement a complete automated code documentation generator
+- [ ] Task 194: Build a distributed real-time anomaly detection system
+- [ ] Task 195: Create a complete quantum error correction simulator
+- [ ] Task 196: Implement a full-featured distributed service mesh
+- [ ] Task 197: Build a complete automated performance optimization system
+- [ ] Task 198: Create a distributed consensus-based identity management system
+- [ ] Task 199: Implement a complete automated software architecture analyzer
+- [ ] Task 200: Build a full-featured distributed artificial intelligence platform
+
+## 🔄 How to Use
+
+1. Clone the repo
+2. Run the task files using Python 3
