@@ -10,17 +10,18 @@ This project contains 200 Python programming tasks ranging from basic to advance
 - [x] Task 05: Convert temperature from Celsius to Fahrenheit
 - [x] Task 06: Check if a number is even or odd
 - [x] Task 07: Find the maximum of three numbers
-- [ ] Task 08: Calculate the factorial of a number using a loop
-- [ ] Task 09: Print numbers from 1 to 10
-- [ ] Task 10: Count from 10 to 1 backwards
-- [ ] Task 11: Calculate the sum of numbers from 1 to 100
-- [ ] Task 12: Check if a number is positive, negative, or zero
-- [ ] Task 13: Create a simple calculator for basic operations (+, -, *, /)
-- [ ] Task 14: Find the length of a string
-- [ ] Task 15: Convert a string to uppercase and lowercase
-- [ ] Task 16: Check if a string contains a specific character
-- [ ] Task 17: Reverse a string
-- [ ] Task 18: Count vowels in a string
+- [x] Task 08: Calculate the factorial of a number using a loop
+- [x] Task 09: Print numbers from 1 to 10
+- [x] Task 10: Count from 10 to 1 backwards
+- [x] Task 11: Calculate the sum of numbers from 1 to 100
+- [x] Task 12: Check if a number is positive, negative, or zero
+- [x] Task 13: Create a simple calculator for basic operations (+, -, *, /)
+- [x] Task 14: Find the length of a string
+- [x] Task 15: Convert a string to uppercase and lowercase
+- [x] Task 16: Check if a string contains a specific character
+- [x] Task 17: Reverse a string
+- [x] Task -18: Count a string
+- [x] Task 18: Count vowels in a string
 - [ ] Task 19: Create a list of your favorite fruits
 - [ ] Task 20: Add and remove elements from a list
 - [ ] Task 21: Find the largest number in a list
