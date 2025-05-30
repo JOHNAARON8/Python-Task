@@ -22,11 +22,11 @@ This project contains 200 Python programming tasks ranging from basic to advance
 - [x] Task 17: Reverse a string
 - [x] Task -18: Count a string
 - [x] Task 18: Count vowels in a string
-- [ ] Task 19: Create a list of your favorite fruits
-- [ ] Task 20: Add and remove elements from a list
-- [ ] Task 21: Find the largest number in a list
-- [ ] Task 22: Check if an element exists in a list
-- [ ] Task 23: Create a dictionary with student names and grades
+- [x] Task 19: Create a list of your favorite fruits
+- [x] Task 20: Add and remove elements from a list
+- [x] Task 21: Find the largest number in a list
+- [x] Task 22: Check if an element exists in a list
+- [x] Task 23: Create a dictionary with student names and grades
 - [ ] Task 24: Access and modify dictionary values
 - [ ] Task 25: Print all keys and values in a dictionary
 - [ ] Task 26: Create a simple guessing game (guess a number 1-10)
